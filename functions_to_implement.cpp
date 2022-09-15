@@ -9,6 +9,12 @@ std::string RemoveAllSubstrings(std::string s1, std::string s2);
 // takes two strings and returns a new string that is the result of removing the first occurrence of s2 from s1.
 std::string RemoveFirstSubstring(std::string s1, std::string s2);
 
+//sdfkjsa;ldkf
+//alsdkjf;alskdjf;lkaj
+//l;kfadslkj;lakjdsf;lk
+//asdfj;ljfsadlkjfsjnbsadf
+//slajhg;lsdakflksadjf
+
 // Joins all strings in a vector together, using the glue string in between them
 std::string Join(std::vector<std::string> pieces, std::string glue);
 
